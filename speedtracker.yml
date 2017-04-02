@@ -55,6 +55,7 @@ wptKey: "2b0d1be2099de4438c901ffe20a42bcaf37c95df46583d2b3dcc9ed451b20acfc439"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                             #
+<<<<<<< HEAD
 #  > wptUrl                                                   (!) Encrypted   #
 #                                                                             #
 #  The URL for the WebPageTest server to be used in the tests. If you're      #
@@ -68,6 +69,8 @@ wptKey: "2b0d1be2099de4438c901ffe20a42bcaf37c95df46583d2b3dcc9ed451b20acfc439"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 #                                                                             #
+=======
+>>>>>>> speedtracker/master
 #  > alerts                                                                   #
 #                                                                             #
 #  You can define alerts to be triggered when certain events occur (like a    #
